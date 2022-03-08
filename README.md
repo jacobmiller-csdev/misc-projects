@@ -3,4 +3,4 @@
 
 Projects in this repository:
 - Arduino Voltage Display & Control
-- Average Face Shape, Face Shape Interpolations, and Face Shape Triangulations
+- Average Face Shape, Face Shape Interpolations, and Face Shape Triangulations (INCOMPLETE)
